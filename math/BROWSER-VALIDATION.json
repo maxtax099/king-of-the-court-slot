@@ -1,0 +1,53 @@
+{
+  "scope": "Local Chromium and mocked RGS only, not Studio validation",
+  "layouts": [
+    {
+      "width": 1920,
+      "height": 1080,
+      "overflow": {
+        "x": false,
+        "y": false
+      },
+      "allCellsVisible": true
+    },
+    {
+      "width": 1280,
+      "height": 720,
+      "overflow": {
+        "x": false,
+        "y": false
+      },
+      "allCellsVisible": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "overflow": {
+        "x": false,
+        "y": false
+      },
+      "allCellsVisible": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "overflow": {
+        "x": false,
+        "y": false
+      },
+      "allCellsVisible": true
+    }
+  ],
+  "pageErrors": [],
+  "checks": [
+    "30 artwork cells",
+    "Space spin",
+    "autoplay confirmation",
+    "complete bonus playback",
+    "paytable and 19 line diagrams",
+    "bad launch URL",
+    "authenticated bet replacements",
+    "zero payout lifecycle",
+    "authoritative wallet display"
+  ]
+}

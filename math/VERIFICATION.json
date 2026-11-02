@@ -1,0 +1,11 @@
+{
+  "verifiedRounds": 13002,
+  "exactRtp": "23/25",
+  "rtpPercent": 92.0,
+  "weightedPayoutUnits": 92000000000,
+  "totalWeight": 1000000000,
+  "hitRate": 0.446022817,
+  "bonusFrequency": 0.0017736,
+  "maxWin": 50000.0,
+  "checks": "Compressed books, lookup IDs/payouts/weights, every payline and multiplier, sticky royals, meter/retrigger limits, full-round cap, demo catalog parity and publication hashes"
+}

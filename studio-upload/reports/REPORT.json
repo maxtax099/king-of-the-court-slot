@@ -1,0 +1,19 @@
+{
+  "version": "court-92-v1",
+  "rounds": 13002,
+  "totalWeight": 1000000000,
+  "weightedPayoutUnits": 92000000000,
+  "rtpExact": "23/25",
+  "rtpPercent": 92.0,
+  "hitRate": 0.446022817,
+  "bonusFrequency": 0.0017736,
+  "maxWin": 50000.0,
+  "formatSource": "StakeEngine/math-sdk@141b4e89065ac4400769709a919259a923430c4d docs/rgs_docs/data_format.md",
+  "scope": "Exact for this finite lookup-weighted complete-round distribution, not arbitrary independent reels or altered weights.",
+  "modelSha256": "f00440dc46ab7287362c300dde3438e3e4f4fb9f8cde3898f6754d5ee9e57beb",
+  "sha256": {
+    "index.json": "bc8240b80bde429c80a804c041f1dcda40a46fb0228a95c7cd4891dbf766d183",
+    "lookUpTable_base.csv": "90d0d0292953cfad60131e338e6b1f5bbe2f1c72e88163a0c6ac5b1162eeb6c4",
+    "books_base.jsonl.zst": "210eca8a2125303edbcb2da381b6ef86202ca1ae90db2933f9fc3e0c09ba3ad2"
+  }
+}

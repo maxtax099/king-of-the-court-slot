@@ -1,0 +1,17 @@
+Extract the delivered ZIP first.
+
+1. Studio Files > Import files > Math: select the supplied math folder containing
+   index.json, lookUpTable_base.csv and books_base.jsonl.zst directly inside.
+2. Front end: select the supplied frontend folder containing index.html directly.
+3. Upload matching frontend and math versions. Both replace prior files;
+   preserve any files you still need before importing.
+4. Use Studio to publish each version and run its validations. If a betlevel
+   template is requested, configure it in Studio. No unpublished template
+   schema has been invented here.
+5. Open a Studio test session. Check wallet authentication, authorized stake
+   options, round recovery, base results and free-spin playback.
+
+The 92.00% RTP is mathematically exact for this weighted library, including
+features. It is not proof of platform acceptance, certification or approval.
+See reports for exact numerator/denominator and hashes. Replay and full
+jurisdiction/approval work remain. Do not submit as an approved finished game.
